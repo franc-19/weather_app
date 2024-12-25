@@ -96,9 +96,3 @@ This project is licensed under the MIT License.
 ## Contact  
 For questions, suggestions, or feedback, please reach out to:  
 - **Name**: Franc  
-- **Email**: your-email@example.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
-
----  
-
-Let me know if you'd like to customize it further!
